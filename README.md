@@ -1,7 +1,6 @@
 # AIO
 All-In-One is a penetration testing tool that atuomates all your pentesting tasks
 
-https://user-images.githubusercontent.com/25440152/206863426-bab953cd-845e-4e6d-be56-e4062f1e45d3.PNG
 
 ------------------------------------
 ![AIO](https://user-images.githubusercontent.com/25440152/206863426-bab953cd-845e-4e6d-be56-e4062f1e45d3.PNG)
