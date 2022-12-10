@@ -1,7 +1,7 @@
 # AIO
 AIO: All-In-One is a penetration testing tool that atuomates all your pentesting tasks
 <p align="center">
-  <a href="#"><img alt="teler" src="![360_F_481082837_vUI96YaZMA7rnKg7fmWNih3QYwuRVm3q](https://user-images.githubusercontent.com/25440152/206862316-533baf72-7fef-42d9-835a-a8d5ba0eb8cf.jpg)" height="300" /></a>
+  <a href="#"><img alt="teler" src="https://user-images.githubusercontent.com/25440152/206862316-533baf72-7fef-42d9-835a-a8d5ba0eb8cf.jpg)" height="300" /></a>
   <h3 align="center"><b>teler</b></h3>
 </p>
 <p align="center">
