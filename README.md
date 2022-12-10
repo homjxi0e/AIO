@@ -12,6 +12,7 @@ All-In-One is a penetration testing tool that atuomates all your pentesting task
   <a href="https://github.com/homjxi0e/AIO/issues"><img alt=" Issues" src="https://img.shields.io/github/issues/homjxi0e/AIO" /></a>
   <h3 align="center"><b>AIO</b></h3>
 </p>
+----------------------------
 
 Installation
 ```
