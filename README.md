@@ -3,7 +3,7 @@ All-In-One is a penetration testing tool that atuomates all your pentesting task
 
 
 
-![AIO](https://user-images.githubusercontent.com/25440152/206862854-99c4a8cb-1b0b-470a-8b15-afbf810f76ee.jpg)
+![AIO](https://user-images.githubusercontent.com/25440152/206863747-5b6ff4b6-db53-4ad7-b5a2-1aaf67c25a53.PNG)
 
 <p align="center">
    <a href="http://golang.org](https://www.gnu.org/software/bash"><img alt="made with Bash" src="https://img.shields.io/badge/made%20with-bash-brightgreen"/></a>
