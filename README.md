@@ -1,5 +1,5 @@
 # AIO
-AIO: All-In-One is a penetration testing tool that atuomates all your pentesting tasks
+All-In-One is a penetration testing tool that atuomates all your pentesting tasks
 
 
 
