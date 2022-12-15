@@ -22,8 +22,8 @@ git clone https://github.com/homjxi0e/AIO
 
 
 Running
-'''
+```
 chmod +x ./AIO.sh
 sudo ./AIO.sh
 
-'''
+```
