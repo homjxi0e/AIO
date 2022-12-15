@@ -1,6 +1,5 @@
 # AIO
-All-In-One is a penetration testing tool that atuomates all your pentesting tasks
-
+when it comes to a penetration testing, All-In-One is based on tools already exist in kali linux or other PenTesting distros.
 
 
 ![AIO](https://user-images.githubusercontent.com/25440152/206863747-5b6ff4b6-db53-4ad7-b5a2-1aaf67c25a53.PNG)
@@ -15,15 +14,17 @@ All-In-One is a penetration testing tool that atuomates all your pentesting task
  
 
 
-Installation
-'''
+# Installation
+```
 git clone https://github.com/homjxi0e/AIO
-'''
+```
 
 
-Running
+# Running
 ```
 chmod +x ./AIO.sh
 sudo ./AIO.sh
 
 ```
+
+
