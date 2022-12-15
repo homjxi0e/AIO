@@ -13,3 +13,10 @@ All-In-One is a penetration testing tool that atuomates all your pentesting task
 </p>
  
  
+
+
+Installation
+'''
+
+sss
+'''
