@@ -17,6 +17,13 @@ All-In-One is a penetration testing tool that atuomates all your pentesting task
 
 Installation
 '''
+git clone https://github.com/homjxi0e/AIO
+'''
 
-sss
+
+Running
+'''
+chmod +x ./AIO.sh
+sudo ./AIO.sh
+
 '''
