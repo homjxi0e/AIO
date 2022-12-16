@@ -1,5 +1,5 @@
 # AIO
-When it comes to a penetration testing: All-In-One is based on tools already exist in your PenTesting distros. It just automates your tasks in one task
+When it comes to a penetration testing: All-In-One is based on tools already exist in your PenTesting distros. It just automates your tasks in one task.
 
 
 
