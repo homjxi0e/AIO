@@ -8,7 +8,7 @@ When it comes to a penetration testing: All-In-One is based on tools already exi
 | Host Information Gathering   | Web Vulnerability Scanning |
 | ------------- | ------------- |
 | Nmap Scanner  :white_check_mark: | SQLMAP  |
-| Masscan Scanner  | Content Cell  |
+| Masscan Scanner :white_check_mark:  | :white_check_mark:  |
 
 
 
