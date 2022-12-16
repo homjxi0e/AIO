@@ -1,11 +1,14 @@
- AIO
-<sub>When it comes to a penetration testing: All-In-One is based on tools already exist in your PenTesting distros. It just automates your tasks in one task.</sub>
-
+ # AIO
+When it comes to a penetration testing: All-In-One is based on tools already exist in your PenTesting distros. It just automates your tasks in one task.
 
 
 
 
 # AIO Features
+| Host InfoGathering   | Second Header |
+| ------------- | ------------- |
+| Nmap Scanner  | Content Cell  |
+| Masscan Scanner  | Content Cell  |
 .1  Scanning IP with NMAP/Masscan
 .2  Scanning web vulns with 
 .3  A collection of PenTesting tools download
