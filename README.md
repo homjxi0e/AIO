@@ -5,7 +5,7 @@ When it comes to a penetration testing: All-In-One is based on tools already exi
 
 
 # AIO Features
-| Host Information Gathering   | Web vuln Scanning |
+| Host Information Gathering   | Web Vulnerability Scanning |
 | ------------- | ------------- |
 | Nmap Scanner  | SQLMAP  |
 | Masscan Scanner  | Content Cell  |
