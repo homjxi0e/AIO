@@ -1,5 +1,5 @@
  # AIO
-ALL-IN-ON 💣 is an autoamted penetration testing script based on a couple of tools alredy installed on Kali Linux and/or other PenTesting distros.
+ALL-IN-ON 💣 is an autoamted penetration testing script based on a couple of tools alredy installed on Kali Linux and/or other PenTesting distros
 
 
 
