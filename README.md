@@ -5,9 +5,9 @@ ALL-IN-ON 💣 is an autoamted penetration testing script based on a couple of t
 
 
 # AIO Features
-|  Information Gathering   | Web Vulnerability Scanning |       | Pentesting Tools Download  |
+|  Information Gathering   | Web Vulnerability Scanning |       
 | ------------- | ------------- |
-| Nmap Scanner  :white_check_mark: | Wapiti :white_check_mark:  |     :white_check_mark:     |  
+| Nmap Scanner  :white_check_mark: | Wapiti :white_check_mark:  | 
 | Masscan Scanner :white_check_mark:  | :white_check_mark:  |
 
 
