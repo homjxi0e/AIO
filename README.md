@@ -7,7 +7,8 @@ When it comes to a penetration testing: All-In-One is based on tools already exi
 # AIO Features
 .1  Scanning IP with NMAP/Masscan
 .2  Scanning web vulns with 
-.3  Linux Problems solving
+.3  A collection of PenTesting tools download
+.4   
 
 
 ![AIO](https://user-images.githubusercontent.com/25440152/206863747-5b6ff4b6-db53-4ad7-b5a2-1aaf67c25a53.PNG)
