@@ -1,5 +1,5 @@
  # AIO
-When it comes to a penetration testing: All-In-One is based on tools already exist in your PenTesting distros. It just automates your tasks in one task.
+ALL-IN-ON 💣 is an autoamted penetration testing script based on a couple of tools alredy installed on Kali Linux and/or other PenTesting distros.
 
 
 
