@@ -13,8 +13,8 @@ ALL-IN-ON 💣 is an autoamted penetration testing script based on a couple of t
 
 | Information Gathering | Web Vulnerability Scanning | Right-aligned |
 | ------------- | ------------- |  ------------- |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| Nmap Scanner  :white_check_mark:   | Wapiti :white_check_mark:     | git status    |
+| Masscan Scanner :white_check_mark:     | git diff       | git diff      |
 .1  Scanning IP with NMAP/Masscan
 .2  Scanning web vulns with 
 .3  A collection of PenTesting tools download
