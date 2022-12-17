@@ -45,7 +45,7 @@ sudo ./AIO.sh
  
 
 ```ruby
-   puts "Jihad AbdRazak"
+   ## "Jihad AbdRazak"
 ```
 
 </p>
