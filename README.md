@@ -39,13 +39,13 @@ sudo ./AIO.sh
 
 ```
 
-<details><summary>CLICK ME</summary>
+<details><summary>Author</summary>
 <p>
 
 #### We can hide anything, even code!
 
 ```ruby
-   puts "Hello World"
+   puts "Jihad AbdRazak"
 ```
 
 </p>
