@@ -42,7 +42,7 @@ sudo ./AIO.sh
 <details><summary>Author</summary>
 <p>
 
-#### We can hide anything, even code!
+ 
 
 ```ruby
    puts "Jihad AbdRazak"
