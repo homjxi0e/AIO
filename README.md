@@ -14,7 +14,7 @@ ALL-IN-ON 💣 is an autoamted penetration testing script based on a couple of t
   <h3 align="center"><b>AIO</b></h3>
 </p>
  
- 
+ https://user-images.githubusercontent.com/25440152/208262621-bc04c819-e881-4510-9894-55ba7fa190b2.gif
  
  # AIO Features
  | Information Gathering | Web Vulnerability Scanning | Brute Forcing |
