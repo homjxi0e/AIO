@@ -11,10 +11,10 @@ ALL-IN-ON 💣 is an autoamted penetration testing script based on a couple of t
 | Masscan Scanner :white_check_mark:  | :white_check_mark:  |
 
 
-| Information Gathering | Web Vulnerability Scanning | Right-aligned |
+| Information Gathering | Web Vulnerability Scanning | Brute Forcing |
 | ------------- | ------------- |  ------------- |
-| Nmap Scanner  :white_check_mark:   | Wapiti :white_check_mark:     | git status    |
-| Masscan Scanner :white_check_mark:     | git diff       | git diff      |
+| Nmap Scanner  :white_check_mark:   | Wapiti :white_check_mark:     | Nmap ftp-brute.nse  :white_check_mark:    |
+| Masscan Scanner :white_check_mark:     | git diff       | Nmap Smb-brute  :white_check_mark:     |
 .1  Scanning IP with NMAP/Masscan
 .2  Scanning web vulns with 
 .3  A collection of PenTesting tools download
