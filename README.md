@@ -36,11 +36,9 @@ chmod +x ./AIO.sh
 sudo ./AIO.sh
 
 ```
-
+ ![AIO](https://user-images.githubusercontent.com/25440152/208262621-bc04c819-e881-4510-9894-55ba7fa190b2.gif)
 <details><summary>Author</summary>
 <p>
-
-  ![AIO](https://user-images.githubusercontent.com/25440152/208262621-bc04c819-e881-4510-9894-55ba7fa190b2.gif)
 
 ```ruby
       "Jihad AbdRazak"
